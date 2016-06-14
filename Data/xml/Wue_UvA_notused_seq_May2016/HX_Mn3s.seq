@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ASCII"?>
+<DocumentRoot xmlns="http://www.opengda.org/regiondefinition">
+  <sequence filename="user.seq" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false" elementSet="Low">
+    <region regionId="_c9q_4BlREea5q_IMXlNjlg" Enabled="true" name="HX_Mn3s" lensMode="Angular56" passEnergy="100" excitationEnergy="3000.0000000000005" acquisitionMode="Swept" energyMode="Binding" fixEnergy="85.0" lowEnergy="70.0" highEnergy="100.0" energyStep="50.0" stepTime="0.588" firstXChannel="1" lastXChannel="1000" firstYChannel="50" lastYChannel="850" slices="801" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="776" totalTime="456.288">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <spectrum location="Diamond I09" User="i09user" sampleName="sample name" filenamePrefix="FilenamePrefix" baseDirectory="myBaseDirectory" filenameFormat="%s_%05d_%s" fileExtension=".nxs" numberOfComments="1" comments=""/>
+  </sequence>
+</DocumentRoot>

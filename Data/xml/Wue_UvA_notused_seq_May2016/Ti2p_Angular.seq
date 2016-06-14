@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<DocumentRoot xmlns="http://www.opengda.org/regiondefinition">
+  <sequence filename="user.seq" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false" elementSet="Low">
+    <region regionId="_xa1PYWrXEeSFGukquzbPKw" Enabled="true" name="Ti2pAngular1" lensMode="Angular56" passEnergy="100" excitationEnergy="462.98921127698935" acquisitionMode="Swept" energyMode="Kinetic" fixEnergy="452.5" lowEnergy="440.0" highEnergy="465.0" energyStep="50.0" stepTime="0.588" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="100" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="676" totalTime="397.488">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_SPuBoGxgEeS3pqJASh6U-A" Enabled="false" name="Ti2pAngular2" lensMode="Angular56" passEnergy="70" excitationEnergy="914.9966" acquisitionMode="Swept" energyMode="Binding" fixEnergy="462.4884" lowEnergy="449.9884" highEnergy="474.9884" energyStep="50.0" stepTime="0.706" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="100" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="623" totalTime="439.838">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <spectrum location="Diamond I09" User="i09user" sampleName="sample name" filenamePrefix="FilenamePrefix" baseDirectory="myBaseDirectory" filenameFormat="%s_%05d_%s" fileExtension=".nxs" numberOfComments="1" comments=""/>
+  </sequence>
+</DocumentRoot>

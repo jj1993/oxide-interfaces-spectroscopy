@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ASCII"?>
+<DocumentRoot xmlns="http://www.opengda.org/regiondefinition">
+  <sequence filename="user.seq" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false" elementSet="Low">
+    <region regionId="_zlGtAWpzEeSZk6jE8xG8UQ" Enabled="false" name="SXsurvey" lensMode="Transmission" passEnergy="20" excitationEnergy="450.003" acquisitionMode="Swept" energyMode="Binding" fixEnergy="147.5" lowEnergy="-5.0" highEnergy="300.0" energyStep="250.0" stepTime="0.059" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="1" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="1228" totalTime="72.452">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_-UD3IGqAEeSFGukquzbPKw" Enabled="false" name="SXVB10Frames" lensMode="Transmission" passEnergy="100" excitationEnergy="570.0055277206704" acquisitionMode="Fixed" energyMode="Binding" fixEnergy="7.5" lowEnergy="3.115" highEnergy="11.885" energyStep="8.77" stepTime="0.588" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="1" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="1" totalTime="0.588">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_g6KrUWqIEeSFGukquzbPKw" Enabled="false" name="HXVB" lensMode="Transmission" passEnergy="100" excitationEnergy="3000.0000000000005" acquisitionMode="Swept" energyMode="Binding" fixEnergy="7.1675" lowEnergy="-0.665" highEnergy="15.0" energyStep="8.77" stepTime="0.118" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="1" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="2787" totalTime="328.866">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_SJ9eAWqWEeSFGukquzbPKw" Enabled="false" name="SXVB_ARPES" lensMode="Angular56" passEnergy="100" excitationEnergy="458.5762" acquisitionMode="Swept" energyMode="Binding" fixEnergy="7.1675" lowEnergy="-0.665" highEnergy="15.0" energyStep="20.0" stepTime="0.588" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="900" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="1223" totalTime="719.124">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_ANqwMGqZEeSFGukquzbPKw" Enabled="false" name="SXVB_ARPES_wide_range" lensMode="Angular56" passEnergy="100" excitationEnergy="458.5762" acquisitionMode="Swept" energyMode="Binding" fixEnergy="7.1675" lowEnergy="-0.665" highEnergy="15.0" energyStep="20.0" stepTime="0.588" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="900" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="1223" totalTime="719.124">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_ZddK4WrEEeSFGukquzbPKw" Enabled="false" name="Ti2pHX" lensMode="Transmission" passEnergy="20" excitationEnergy="2500.0" acquisitionMode="Swept" energyMode="Binding" fixEnergy="462.5" lowEnergy="454.0" highEnergy="471.0" energyStep="50.0" stepTime="0.588" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="1" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="376" totalTime="221.088">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_RH3QkGrSEeSFGukquzbPKw" Enabled="false" name="TI2pAngular" lensMode="Angular56" passEnergy="100" excitationEnergy="3000.0000000000005" acquisitionMode="Swept" energyMode="Binding" fixEnergy="462.5" lowEnergy="454.0" highEnergy="471.0" energyStep="50.0" stepTime="2.353" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="900" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="516" totalTime="1214.148">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_pIWe0Gq2EeSFGukquzbPKw" Enabled="false" name="HXsurvey" lensMode="Transmission" passEnergy="20" excitationEnergy="2500.0" acquisitionMode="Swept" energyMode="Binding" fixEnergy="499.5" lowEnergy="-1.0" highEnergy="1000.0" energyStep="250.0" stepTime="0.059" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="1" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="4012" totalTime="236.708">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_xa1PYWrXEeSFGukquzbPKw" Enabled="false" name="SrAlLaAngular1" lensMode="Angular56" passEnergy="100" excitationEnergy="3000.0000000000005" acquisitionMode="Swept" energyMode="Binding" fixEnergy="120.5" lowEnergy="100.0" highEnergy="141.0" energyStep="50.0" stepTime="1.176" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="900" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="996" totalTime="1171.296">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_cSTHsWrdEeSFGukquzbPKw" Enabled="false" name="SrAlLaTrans" lensMode="Transmission" passEnergy="20" excitationEnergy="458.5762" acquisitionMode="Swept" energyMode="Binding" fixEnergy="125.0" lowEnergy="100.0" highEnergy="150.0" energyStep="50.0" stepTime="0.588" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="12" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="1036" totalTime="609.168">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_AFep0WsjEeS268pKsC74lQ" Enabled="false" name="Al1sAngular" lensMode="Angular56" passEnergy="100" excitationEnergy="3000.0000000000005" acquisitionMode="Swept" energyMode="Binding" fixEnergy="1563.0" lowEnergy="1558.0" highEnergy="1568.0" energyStep="50.0" stepTime="0.588" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="900" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="376" totalTime="221.088">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_7ZEvoGsjEeS268pKsC74lQ" Enabled="false" name="SXVBangular" lensMode="Angular56" passEnergy="100" excitationEnergy="457.5692" acquisitionMode="Swept" energyMode="Binding" fixEnergy="9.0" lowEnergy="0.0" highEnergy="18.0" energyStep="8.77" stepTime="0.294" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="100" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="3053" totalTime="897.582">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_M_qSMGssEeS268pKsC74lQ" Enabled="false" name="HXVBangular" lensMode="Angular56" passEnergy="100" excitationEnergy="3000.0" acquisitionMode="Swept" energyMode="Binding" fixEnergy="7.5" lowEnergy="0.0" highEnergy="15.0" energyStep="8.77" stepTime="0.294" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="100" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="2711" totalTime="797.034">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_N9vJkGtkEeS268pKsC74lQ" Enabled="false" name="Darkcount" lensMode="Transmission" passEnergy="100" excitationEnergy="458.5762" acquisitionMode="Fixed" energyMode="Binding" fixEnergy="180.0" lowEnergy="175.615" highEnergy="184.385" energyStep="8.77" stepTime="11.765" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="1" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="1" totalTime="11.765">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_jqZN0WtlEeS268pKsC74lQ" Enabled="false" name="DarkcountFermi" lensMode="Transmission" passEnergy="100" excitationEnergy="458.5762" acquisitionMode="Fixed" energyMode="Binding" fixEnergy="-7.0" lowEnergy="-11.385" highEnergy="-2.615" energyStep="8.77" stepTime="11.765" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="1" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="1" totalTime="11.765">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_MT2TQGtnEeS268pKsC74lQ" Enabled="false" name="SXVB100Frames" lensMode="Transmission" passEnergy="100" excitationEnergy="458.5762" acquisitionMode="Fixed" energyMode="Binding" fixEnergy="3.72" lowEnergy="-0.665" highEnergy="8.105" energyStep="8.77" stepTime="5.882" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="1" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="1" totalTime="5.882">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="__yqecdA3EeWjSKX19XQACA" Enabled="true" name="O1s" lensMode="Angular56" passEnergy="100" excitationEnergy="3200.0" acquisitionMode="Swept" energyMode="Binding" fixEnergy="532.0" lowEnergy="527.0" highEnergy="537.0" energyStep="50.0" stepTime="0.294" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="900" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="376" totalTime="110.544">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_zjCd4NBNEeWjSKX19XQACA" Enabled="false" name="SrAlLaAngular2" lensMode="Angular56" passEnergy="100" excitationEnergy="3000.0000000000005" acquisitionMode="Swept" energyMode="Binding" fixEnergy="120.5" lowEnergy="100.0" highEnergy="141.0" energyStep="50.0" stepTime="1.176" firstXChannel="1" lastXChannel="1000" firstYChannel="1" lastYChannel="900" slices="900" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="996" totalTime="1171.296">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <spectrum location="Diamond I09" User="i09user" sampleName="sample name" filenamePrefix="FilenamePrefix" baseDirectory="myBaseDirectory" filenameFormat="%s_%05d_%s" fileExtension=".nxs" numberOfComments="1" comments=""/>
+  </sequence>
+</DocumentRoot>

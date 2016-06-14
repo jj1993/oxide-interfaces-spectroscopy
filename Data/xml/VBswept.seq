@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<DocumentRoot xmlns="http://www.opengda.org/regiondefinition">
+  <sequence filename="user.seq" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false" elementSet="High">
+    <region regionId="_SJ9eAWqWEeSFGukquzbPKw" Enabled="false" name="VBswept" lensMode="Angular56" passEnergy="100" excitationEnergy="900.0159636636774" acquisitionMode="Swept" energyMode="Binding" fixEnergy="12.5" lowEnergy="0.0" highEnergy="25.0" energyStep="40.0" stepTime="0.118" firstXChannel="1" lastXChannel="1000" firstYChannel="50" lastYChannel="850" slices="801" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="845" totalTime="99.71">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <region regionId="_L3jiwRltEeaju_768SoWXQ" Enabled="true" name="SXVB_swept_widerange" lensMode="Angular56" passEnergy="70" excitationEnergy="641.0032849244192" acquisitionMode="Swept" energyMode="Kinetic" fixEnergy="352.5" lowEnergy="349.0" highEnergy="356.0" energyStep="30.0" stepTime="0.294" firstXChannel="1" lastXChannel="999" firstYChannel="70" lastYChannel="845" slices="776" detectorMode="ADC" ADCMask="255" discriminatorLevel="10" totalSteps="439" totalTime="129.066">
+      <runMode mode="NORMAL" runModeIndex="0" numIterations="1" repeatUntilStopped="false" confirmAfterEachIteration="false"/>
+    </region>
+    <spectrum location="Diamond I09" User="i09user" sampleName="sample name" filenamePrefix="FilenamePrefix" baseDirectory="myBaseDirectory" filenameFormat="%s_%05d_%s" fileExtension=".nxs" numberOfComments="1" comments=""/>
+  </sequence>
+</DocumentRoot>
